@@ -6,6 +6,10 @@
     "email": "deridder.johannes@gmail.com",
     "website": "http://johannesderidder.be",
     "summary": "Johannes De Ridder is still thinking about what he should put here.",
+    "location": {
+      "countryCode": "BE",
+      "region": "Antwerp"
+    },
     "profiles": [
       {
         "network": "Twitter",
@@ -25,7 +29,6 @@
       "position": "Partner/Developer",
       "website": "http://www.tablebooker.be",
       "startDate": "2012-05-01",
-      "endDate": "Now",
       "summary": "",
       "highlights": [
         "Managing partner",
