@@ -5,7 +5,7 @@
     "picture": "https://lh3.googleusercontent.com/-p_SuBtkPXWI/AAAAAAAAAAI/AAAAAAAALOo/BUaWJ_YiEPU/s120-c/photo.jpg",
     "email": "johannes@alt-o.be",
     "website": "http://alt-o.be",
-    "summary": "Johannes De Ridder is still thinking about what he should put here.",
+    "summary": "",
     "location": {
       "countryCode": "BE",
       "region": "Antwerp"
@@ -24,15 +24,51 @@
     ]
   },
   "work": [
+  	{
+      "company": "Tablebooker (Resto Group)",
+      "position": "CTO",
+      "website": "http://www.tablebooker.be",
+      "startDate": "2015-10-01",
+      "summary": "In september 2015 Tablebooker was aquired by the Resto Group (resto.be). As CTO I am responsible for the integration of the existing Resto applications with Tablebooker, managing the growing development team and planning changes and new features.",
+      "highlights": [
+        "Management",
+       	"Development"
+      ]
+    },
     {
       "company": "Tablebooker",
       "position": "Partner/Developer",
       "website": "http://www.tablebooker.be",
       "startDate": "2012-05-01",
+      "endDate": "2015-09-30",
       "summary": "",
       "highlights": [
         "Managing partner",
         "PHP"
+      ]
+    },
+    {
+      "company": "Antenno",
+      "position": "Web developer",
+      "website": "http://www.antenno.com",
+      "startDate": "2013-06-01",
+      "endDate": "2014-02-01",
+      "summary": "Antenno is a marketing and communications company with a strong focus on entrepreneurship.",
+      "highlights": [
+        "Wordpress, CodeIgniter, Symfony",
+        "Corporate websites and apps"
+      ]
+    },
+    {
+      "company": "Vacature",
+      "position": "Project Manager & Lead Developer",
+      "website": "http://www.antenno.com",
+      "startDate": "2013-01-01",
+      "endDate": "2013-05-01",
+      "summary": "",
+      "highlights": [
+        "Drupal 7 and Zend Framework development",
+        "Project management"
       ]
     },
     {
