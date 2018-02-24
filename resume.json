@@ -29,10 +29,11 @@
       "position": "CTO",
       "website": "http://www.tablebooker.be",
       "startDate": "2015-10-01",
-      "summary": "In september 2015 Tablebooker was aquired by the Resto Group (resto.be). As CTO I am responsible for the integration of the existing Resto applications with Tablebooker, managing the growing development team and planning changes and new features.",
+      "summary": "In september 2015 Tablebooker was acquired by the Resto Group (resto.be). As CTO I am responsible for the integration of the existing Resto applications with Tablebooker, managing the growing development team, planning changes and new features as well as actual development.",
       "highlights": [
         "Management",
-       	"Development"
+       	"Development",
+        "Technologies: PHP (CodeIgniter, Symfony and Laravel), MySQL, JavaScript, jQuery, Nginx, Amazon AWS, python, Webpack, React, ..."
       ]
     },
     {
@@ -41,10 +42,11 @@
       "website": "http://www.tablebooker.be",
       "startDate": "2012-05-01",
       "endDate": "2015-09-30",
-      "summary": "",
+      "summary": "I was one of the founders of Tablebooker, a reservation system for restaurants. I was involved in every aspect of building and growing the company.",
       "highlights": [
         "Managing partner",
-        "PHP"
+        "Development",
+        "Technologies: PHP, MySQL, JavaScript, jQuery, Nginx and Amazon AWS"
       ]
     },
     {
@@ -55,31 +57,31 @@
       "endDate": "2014-02-01",
       "summary": "Antenno is a marketing and communications company with a strong focus on entrepreneurship.",
       "highlights": [
-        "Wordpress, CodeIgniter, Symfony",
-        "Corporate websites and apps"
+        "Development of corporate websites and apps",
+        "Technologies: Wordpress, CodeIgniter, Symfony"
       ]
     },
     {
-      "company": "Vacature",
+      "company": "Vacature (via PHPro/Cronos)",
       "position": "Project Manager & Lead Developer",
-      "website": "http://www.antenno.com",
       "startDate": "2013-01-01",
       "endDate": "2013-05-01",
-      "summary": "",
+      "website": "http://www.vacature.be",
+      "summary": "At vacature I was the team lead of the team that maintained the Vacature job search site (Drupal) and backend (Zend Framework).",
       "highlights": [
         "Drupal 7 and Zend Framework development",
         "Project management"
       ]
     },
     {
-      "company": "Telenet",
+      "company": "Telenet (via Ausy Belgium)",
       "position": "Drupal developer",
       "website": "http://www.telenet.be",
       "startDate": "2010-06-01",
       "endDate": "2012-12-30",
-      "summary": "",
+      "summary": "At Telenet I was part of the team that build the (internal and external) customer support platform in Drupal 7. Other projects I worked on were the Telenet For Business site and smaller internal projects.",
       "highlights": [
-        "Drupal and PHP development",
+        "Technologies: Drupal 6 and 7, custom PHP and Zend Framework",
         "High traffic websites"
       ]
     },
@@ -91,7 +93,7 @@
       "endDate": "2010-06-01",
       "summary": "",
       "highlights": [
-        "Drupal and Wordpress development",
+        "Technologies: Drupal 6, Wordpress and Java",
         "High traffic websites"
       ]
     }
@@ -137,7 +139,9 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "jQuery",
+        "React"
       ]
     },
     {
@@ -146,7 +150,8 @@
       "keywords": [
         "PHP",
         "SQL",
-        "ASP.net"
+        "Python",
+        "Java (limited)"
       ]
     }
   ],
