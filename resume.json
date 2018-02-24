@@ -28,7 +28,7 @@
       "company": "Tablebooker (Resto Group)",
       "position": "CTO",
       "website": "http://www.tablebooker.be",
-      "startDate": "2015-10-01",
+      "startDate": "01-10-2015",
       "summary": "In september 2015 Tablebooker was acquired by the Resto Group (resto.be). As CTO I am responsible for the integration of the existing Resto applications with Tablebooker, managing the growing development team, planning changes and new features as well as actual development.",
       "highlights": [
         "Management",
@@ -40,8 +40,8 @@
       "company": "Tablebooker",
       "position": "Partner/Developer",
       "website": "http://www.tablebooker.be",
-      "startDate": "2012-05-01",
-      "endDate": "2015-09-30",
+      "startDate": "01-05-2012",
+      "endDate": "30-09-2015",
       "summary": "I was one of the founders of Tablebooker, a reservation system for restaurants. I was involved in every aspect of building and growing the company.",
       "highlights": [
         "Managing partner",
@@ -53,8 +53,8 @@
       "company": "Antenno",
       "position": "Web developer",
       "website": "http://www.antenno.com",
-      "startDate": "2013-06-01",
-      "endDate": "2014-02-01",
+      "startDate": "01-06-2013",
+      "endDate": "01-02-2014",
       "summary": "Antenno is a marketing and communications company with a strong focus on entrepreneurship.",
       "highlights": [
         "Development of corporate websites and apps",
@@ -64,9 +64,9 @@
     {
       "company": "Vacature (via PHPro/Cronos)",
       "position": "Project Manager & Lead Developer",
-      "startDate": "2013-01-01",
-      "endDate": "2013-05-01",
       "website": "http://www.vacature.be",
+      "startDate": "01-01-2013",
+      "endDate": "01-05-2013",
       "summary": "At vacature I was the team lead of the team that maintained the Vacature job search site (Drupal) and backend (Zend Framework).",
       "highlights": [
         "Drupal 7 and Zend Framework development",
@@ -77,8 +77,8 @@
       "company": "Telenet (via Ausy Belgium)",
       "position": "Drupal developer",
       "website": "http://www.telenet.be",
-      "startDate": "2010-06-01",
-      "endDate": "2012-12-30",
+      "startDate": "01-06-2010",
+      "endDate": "30-12-2012",
       "summary": "At Telenet I was part of the team that build the (internal and external) customer support platform in Drupal 7. Other projects I worked on were the Telenet For Business site and smaller internal projects.",
       "highlights": [
         "Technologies: Drupal 6 and 7, custom PHP and Zend Framework",
@@ -89,8 +89,8 @@
       "company": "VRT",
       "position": "System engineer",
       "website": "http://www.vrt.be",
-      "startDate": "2009-07-01",
-      "endDate": "2010-06-01",
+      "startDate": "01-07-2009",
+      "endDate": "01-06-2010",
       "summary": "",
       "highlights": [
         "Technologies: Drupal 6, Wordpress and Java",
@@ -103,16 +103,16 @@
       "organization": "ASK-Stuwer",
       "position": "Finance, Vice-Chairman",
       "website": "http://www.ask-stuwer.be/",
-      "startDate": "2006-10-01",
-      "endDate": "2010-06-01",
+      "startDate": "2006",
+      "endDate": "2010",
       "summary": "Student representation."
     },
     {
       "organization": "VUAS",
       "position": "Vice-Chairman",
       "website": "http://www.vuas.be/",
-      "startDate": "2007-10-01",
-      "endDate": "2009-06-01",
+      "startDate": "2007",
+      "endDate": "2009",
       "summary": "Student representation."
     }
   ],
@@ -121,15 +121,15 @@
       "institution": "University of Antwerp",
       "area": "Computer Sciences",
       "studyType": "Master",
-      "startDate": "2007-10-01",
-      "endDate": "2009-06-01"
+      "startDate": "2007",
+      "endDate": "2009"
     },
     {
       "institution": "University of Antwerp",
       "area": "Computer Sciences",
       "studyType": "Bachelor",
-      "startDate": "2003-10-01",
-      "endDate": "2007-06-01"
+      "startDate": "2003",
+      "endDate": "2007"
     }
   ],
   "skills": [
